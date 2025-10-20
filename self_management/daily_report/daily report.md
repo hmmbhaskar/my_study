@@ -1,5 +1,11 @@
 # Daily report
 
+## 2025/10/19
+
+1. Since on the Previous day, slept a lot late, so already woke up late today, but then got engaged in home stuffs and didn't studied at all.
+2. Day wasted in home stuffs, like cleaning, hair cut, beard shave and such. 
+3. Wasted night time in youtube content, socially and philosophically useful content but not relevant for my current status.  
+
 ## 2025/10/18
 
 1. Twitter + Room Search + Long Call + Again Back to Routine
