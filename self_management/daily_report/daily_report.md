@@ -1,5 +1,10 @@
 # Daily report
 
+## 2025/10/19 - 2025/11/04
+
+1. Was engaged in house search, house shift, time waste and many things which can be simply classified as a non productive task.
+2. Also toured a lot of locations.
+
 ## 2025/10/19
 
 1. Since on the Previous day, slept a lot late, so already woke up late today, but then got engaged in home stuffs and didn't studied at all.
