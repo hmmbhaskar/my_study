@@ -146,7 +146,23 @@ I begin my studies; may I always be granted success.
 
 - GDPR, PCI-DSS, accessibility standards (WCAG)
 
-## Intelligence
+## ai
+
+### generative_ai_llm
+
+#### agentic_ai
+
+##### agentic_ai_course
+
+### LLMOps/AIOps
+
+#### GenAI Benchmarking
+
+#### GenAI Deployment
+
+#### GenAI Serving
+
+#### GenAI Inference
 
 ### MLOps
 
@@ -158,15 +174,6 @@ I begin my studies; may I always be granted success.
 
 #### Model Inference
 
-### LLMOps/AIOps
-
-#### GenAI Benchmarking
-
-#### GenAI Deployment
-
-#### GenAI Serving
-
-#### GenAI Inference
 
 ## Data
 

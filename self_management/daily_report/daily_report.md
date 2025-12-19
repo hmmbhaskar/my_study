@@ -1,5 +1,9 @@
 # Daily report
 
+## 2025/11/05 - 2025/11/19
+
+1. And here we go again of my life wastage, being done by me every period. Watched Game of Thrones, Trips to Various Places, so mails for project allocation, unallocation and such. And now after fucking wasting hell a lot of time, starting again, but yes this is end game. I am fucking tired of myself. Now either I change or there is no other way I can turn my life around. So, whatever did or happened is past, today is the present for my future.  
+
 ## 2025/10/19 - 2025/11/04
 
 1. Was engaged in house search, house shift, time waste and many things which can be simply classified as a non productive task.
