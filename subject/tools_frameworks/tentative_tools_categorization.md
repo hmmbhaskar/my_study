@@ -614,29 +614,29 @@
 - tensorboard.md
 - wandb_visualization.md
 
-## generative_ai_llm
+### generative_ai_llm
 
-### llm_providers
+#### llm_providers
 
 - openai_api.md
 - anthropic_api.md
 - cohere_api.md
 
-### llm_application_frameworks
+#### llm_application_frameworks
 
 - langchain.md
 - llamaindex.md
 - haystack.md
 - semantic_kernel.md
 
-### agentic_ai_frameworks
+#### agentic_ai_frameworks
 
 - autogen.md
 - crewai.md
 - langraph.md
 - adk.md
 
-### model_inference
+#### model_inference
 
 - ollama.md
 - vllm.md
@@ -645,7 +645,7 @@
 - llama_cpp.md
 - mlc_llm.md
 
-### model_fine_tuning
+#### model_fine_tuning
 
 - peft.md
 - lora.md
@@ -655,7 +655,7 @@
 - trl.md
 - bitsandbytes.md
 
-### vector_databases
+#### vector_databases
 
 - chroma.md
 - pinecone.md
@@ -665,13 +665,13 @@
 - faiss.md
 - pgvector.md
 
-### prompt_engineering_tools
+#### prompt_engineering_tools
 
 - langsmith.md
 - promptlayer.md
 - helicone.md
 
-### huggingface_ecosystem
+#### huggingface_ecosystem
 
 - spaces.md
 - transformers.md

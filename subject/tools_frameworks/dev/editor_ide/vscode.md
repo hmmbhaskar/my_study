@@ -9,9 +9,13 @@
   - `Ctrl + 2`: Focuses the right side editor group (if two are open)
   - `Ctrl + 3`: Focuses the right most editor group (if three are open)
 
-## Special Features
+### Show/Hide Sidebar
 
-### multi-cursor editing
+- To show or hide sidebars being shown in the vs code. There are two sidebars like one on the left and one on the right.
+  - Chat Window in the left Side: 
+    - Shortcut: Ctrl + B
+  - Chat Window in Right Side:
+    - Shortcut: Ctrl + Alt + B
 
 Visual Studio Code offers several methods for editing or typing on multiple lines simultaneously, which is known as multi-cursor editing.
 
@@ -42,3 +46,10 @@ Windows: Press Ctrl + Alt + Down Arrow or Ctrl + Alt + Up Arrow to add a cursor 
    1. Since I was doing a lot english word mistakes in writing notes and whatever i am writing hence needed something to suggest the correct spelling and also keep an eye on the same. 
 5. vscode-pdf: Display pdf file in VSCode.
 
+## Modifications
+
+1. Markdown All in One: Shortcut to Bold:
+   1. Condition: The Ctrl + B is by default the key to hide and show in the vs code, but with this extension, it is acting for B of the text, which is not allowing it to hide/show left sidebar. To resolve it, I am doing the change in the keyboard shortcut of the extension for the keybinding of the Ctrl + B, by changing the When condition of the Keybinding of this extension. I am adding that it works only when text is selected:
+      1. By Deafult When: editorTextFocus && !editorReadonly && editorLangId =~ /^markdown$|^rmd$|^quarto$/
+      2. New When: editorHasSelection && editorTextFocus && !editorReadonly && editorLangId =~ /^markdown$|^rmd$|^quarto$/
+   2. Output: The desired output is achieved.

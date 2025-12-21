@@ -1,5 +1,13 @@
 # Daily report
 
+## 2025/11/21
+
+1. Today from 2:45 Pm, I did live stream and work of approx 5 hours, if non productive hours being removed, it might be 4 hours total. I started the 5-day GenAi course by google, found that the NotebookLM creates amazing videos, created my creator account on buymeacoffee and ko-fi (but ko-fi one not totally successful). Started reading book on DL. Hope to continue tomorrow in better and more exhaustive manner.
+
+## 2025/11/20
+
+1. Welcome to the pathetic me, I wasted 20th Dec as well. I had a pending list of items to order, I searched and ordered most of it. That's only thing I did and wasting ofcourse. But I am writing this on 21st, and Yes I have started studying, let's see how long it lasts.
+
 ## 2025/11/05 - 2025/11/19
 
 1. And here we go again of my life wastage, being done by me every period. Watched Game of Thrones, Trips to Various Places, so mails for project allocation, unallocation and such. And now after fucking wasting hell a lot of time, starting again, but yes this is end game. I am fucking tired of myself. Now either I change or there is no other way I can turn my life around. So, whatever did or happened is past, today is the present for my future.  

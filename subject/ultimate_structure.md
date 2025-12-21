@@ -11,6 +11,10 @@ Translation
 > O Sarasvati, salutations to you — giver of boons and fulfiller of desires.\
 I begin my studies; may I always be granted success.
 
+## Schema_notes
+
+- Each category can have a sub_category of the same name with self attached as suffix to denote that apart from sub-classficiation whatever overall on the same category is being taught that would be present there. Like self category can consist of courses on the category, content like books on the category, materials on the category and all such.
+
 ## Maths
 
 ## Computer Science
@@ -152,7 +156,19 @@ I begin my studies; may I always be granted success.
 
 #### agentic_ai
 
-##### agentic_ai_course
+##### agnetic_ai_self
+
+###### agentic_ai_course
+
+#### generative_ai_llm_self
+
+##### genai_course
+
+#### llm
+
+##### llm_self
+
+###### llm_resource
 
 ### LLMOps/AIOps
 
@@ -173,7 +189,6 @@ I begin my studies; may I always be granted success.
 #### Model Serving
 
 #### Model Inference
-
 
 ## Data
 
