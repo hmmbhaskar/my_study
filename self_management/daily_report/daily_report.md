@@ -1,12 +1,22 @@
 # Daily report
 
+## 2025/12/23
+
+1. Did a lot of study try, but overall output very less, basically first start from 10 am somewhat failed in between had to eat treat from Grandma, heavy treat. So first started revising the companion podcasts and in mid way started the treat in one break and treat was soo heavy that kind of slept for long after the same. Basically, around 1 hour or more sleeping, after that because of one order delivery, the live got disrupted so stopped it at 4 hour and thought to later start it. but after some break. so after break started, but again the some disruptions and enagement with Grandma by giving her companisionship lead to destruction of continious study, and eventually left around 7 for office and Gym. At till now, in night will try to complete all of the 8 videos. like 1 video is completely remaining which I will finish by today itself.
+2. Did multiple live streams: 
+   1. [Live Study With Me 2025/12/23](https://youtu.be/qcoRtB7ZE7M)
+   2. [Live Study With Me 2025/12/23](https://youtu.be/Mwu1b4cqzLw)
+   3. [Live Study With Me 2025/12/23](https://youtu.be/LObelXzDa2w)
+
 ## 2025/12/22
 
-1. Almost productive day with around 5 hours of effective study, 2 hours of Gym. Carefully listened the companion podcast of the 5-day gen ai course, Out of 8 completed around 5. 3 Remaining. 1 yesterday I had completed, but started again in the morning from the start. Also, while Gym try to audio book, although can't keep focus on the same to understand everybit but gist of the book and bits here and there do am able to learn. 
+1. Almost productive day with around 5 hours of effective study, 2 hours of Gym. Carefully listened the companion podcast of the 5-day gen ai course, Out of 7 completed around 4. 4 Remaining. 1 yesterday I had completed, but started again in the morning from the start. Also, while Gym try to audio book, although can't keep focus on the same to understand everybit but gist of the book and bits here and there do am able to learn.
+2. [Live Study With Me 2025/12/22 Link](https://youtu.be/2alJT6WxgBo)
 
 ## 2025/12/21
 
 1. Today from 2:45 Pm, I did live stream and work of approx 5 hours, if non productive hours being removed, it might be 4 hours total. I started the 5-day GenAi course by google, found that the NotebookLM creates amazing videos, created my creator account on buymeacoffee and ko-fi (but ko-fi one not totally successful). Started reading book on DL. Hope to continue tomorrow in better and more exhaustive manner.
+2. [Live Study With Me 2025/12/21](https://youtu.be/rZubxtB9qmw)
 
 ## 2025/12/20
 
