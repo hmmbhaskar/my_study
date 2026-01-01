@@ -1,5 +1,13 @@
 # Daily report
 
+## 2026/1/1
+
+1. Today is 1st Jan 2026 and most of the day in wasted in wishing happy new year, eating sleeping, office works, but would try to be proper from tomorrow. And tomorrow I have to do office work in the morning.
+
+## 2025/12/24 - 2025/12/31
+
+1. OMG again I wasted it seems, not live and just engaged in this or that.
+
 ## 2025/12/23
 
 1. Did a lot of study try, but overall output very less, basically first start from 10 am somewhat failed in between had to eat treat from Grandma, heavy treat. So first started revising the companion podcasts and in mid way started the treat in one break and treat was soo heavy that kind of slept for long after the same. Basically, around 1 hour or more sleeping, after that because of one order delivery, the live got disrupted so stopped it at 4 hour and thought to later start it. but after some break. so after break started, but again the some disruptions and enagement with Grandma by giving her companisionship lead to destruction of continious study, and eventually left around 7 for office and Gym. At till now, in night will try to complete all of the 8 videos. like 1 video is completely remaining which I will finish by today itself.
