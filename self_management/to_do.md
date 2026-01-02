@@ -3,6 +3,9 @@
 ## 2025/10/03
 
 - [ ] Sponsored Certifications List
+  - [ ] Amazon AWS
+    - [ ] AWS AI Practitioner
+    - [ ] AWS Generative AI Developer - Professional
 
 
 ## 2025/10/02
