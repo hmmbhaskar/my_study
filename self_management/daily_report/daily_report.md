@@ -1,5 +1,9 @@
 # Daily report
 
+## 2026/1/3
+
+1. Did productive works but not study, productive works like accounting finance, ordering medicines, cleaning room and such. So basically 0 study, hence 0 commit. 
+
 ## 2026/1/2
 
 1. Did a lot of office work, although not streamed and would soon be streaming as well. Office work include sharepoint website, some issues related to me my BGC, and others. used the script to convert multiple images in one order to pdf to create BGC document to be submitted.
