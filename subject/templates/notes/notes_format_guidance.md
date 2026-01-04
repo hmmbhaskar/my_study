@@ -16,6 +16,8 @@ description: Keeping the general note format to follow in most of the study topi
 
 ### TL;DR
 
+#### Definition
+
 #### Scope
 
 #### Key Topics
