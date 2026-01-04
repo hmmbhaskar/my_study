@@ -5,10 +5,6 @@ tags: ["version control", "hosting", "repo hosting", "git"]
 
 ## Important Info
 
-## Connect to Github
-
-1. Connecting 
-
 ## How To
 
 ### Clone a Repo

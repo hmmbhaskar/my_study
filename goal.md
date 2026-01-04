@@ -19,9 +19,12 @@ Translation:
 1. Certifications
    1. GenAI Related Certifications: Only those that are sponsored by my organization to gain certifications as well.
 2. Books
-   1. - [ ] LLM From Scratch
+   1. - [ ] Build a Large Language Model (From Scratch)
    2. - [ ] AI Engineering
    3. - [ ] LLM Engineer's Handbook
+   4. - [ ] Transformers in Action
+   5. - [ ] Hands-On-Large Language Models
+   6. - [ ] Hugging Face in Action
 3. Courses
    1. Latest Fornteir Courses, Short Courses from Deeplearning.ai
 4. Practical
@@ -31,7 +34,9 @@ Translation:
 ## Goal Evalution Deadline
 
 1. 2026/01/01
-2. Total Days From 2nd Oct to 1st Jan: 90 Days
+   1. Booooooooooooooooooooo, I FAILED Miserebly. I Not at all studied. 
+2. Total Days From 2nd Oct to 1st Jan: 90 Days 
+   1. BOooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, I WASTED every day. 
 
 ## Time Leaks
 

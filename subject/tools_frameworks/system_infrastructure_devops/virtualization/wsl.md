@@ -1,6 +1,14 @@
-# Notes
+---
+title: "Window Sub-system for Linux"
+---
 
-## Default Terminal
+## Key Info
+
+> [wsl official link](https://learn.microsoft.com/en-us/windows/wsl)
+
+## Foundation
+
+### Default Terminal
 
 I found that Zutty is the default terminal emulator in case of Ubuntu being installed in WSL. Following command was helpful to check the same:
 `sudo update-alternatives --config x-terminal-emulator`

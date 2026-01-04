@@ -3,7 +3,7 @@ title: FFmpeg
 tags: ["video","audio","content"]
 ---
 
-## Main Information
+## Key Info
 
 > Official Website: [FFmpeg](https://www.ffmpeg.org/)
 

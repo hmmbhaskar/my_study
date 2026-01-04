@@ -69,4 +69,3 @@ POSIX: Portable Operating System Interface, is a family of standards for definin
 ## Interesting Bit
 
 - Initially POSIX full form was Portable Operating System Interface for Unix, but now I saw just till interface almost everywhere. 
-- 

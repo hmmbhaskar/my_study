@@ -9,16 +9,16 @@ description: An extremely fast Python package and project manager, written in Ru
 
 ## Important Info
 
-- [uv Official Link](https://docs.astral.sh/uv/)
-
-## Download & Install
-
-### macOS and Linux
-
-- Installation Command: `curl -LsSf https://astral.sh.uv/install.sh | sh`
-  - curl: downloads the install.sh script from astral website.
+> [uv Official Link](https://docs.astral.sh/uv/)
 
 ## How to
+
+### Download & Install
+
+#### macOS and Linux
+
+- Installation Command: `curl -LsSf https://astral.sh/uv/install.sh | sh`
+  - curl: downloads the install.sh script from astral website.
 
 ### Create Virtual Environment
 

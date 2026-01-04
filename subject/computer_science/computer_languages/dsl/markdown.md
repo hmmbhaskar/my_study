@@ -2,6 +2,11 @@
 
 ## Markdown Checkbox
 
+### Checkbox Notes
+
+1. Checkboxes are a key part of task lists in GitHub issues and pull requests, allowing teams to track progress.
+2. Markdown editors and applications, including VS Code and Obsidian, support task lists, allowing for interactive checkboxes.
+
 ### How to
 
 1. Type `- [ ] task_item` for an unchecked box or `- [x] task_item` for a checked box.
@@ -12,11 +17,6 @@
    2. Add brackets: Immediately after the space, type an opening and closing square bracket `[]`
    3. Add content: Put a space between the brackets for an unchecked box `[ ]` or an x for a checked box `[x]`
    4. Add task: After the brackets, put space and then type the text for task.
-
-### Checkbox Notes
-
-1. Checkboxes are a key part of task lists in GitHub issues and pull requests, allowing teams to track progress.
-2. Markdown editors and applications, including VS Code and Obsidian, support task lists, allowing for interactive checkboxes.
 
 ## Notes
 
