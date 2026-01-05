@@ -1,5 +1,9 @@
 # Daily report
 
+## 2026/1/5
+
+1. Did office work, somewhat this that, used X (formarly Twitter). Other works, but study wise, I can almost nothing, not even 1 hour of productivity. From tomorrow would continue on the routine properly.
+
 ## 2026/1/4
 
 1. Did productive works, started with the study of the 5-day GenAI course again from start. And this time thought to properly study to keep notes as well. So, a lot time went in note structure finalization 😰🥲😣. Also helped one friend in one lip synced video generation first trial using wav2lip (but it had legecy dependencies) finally trying the one which LatentSync by bytedance, which worked somewhat but in system with no gpu, it needed tweak. Total productive hours can be considered 4
